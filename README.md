@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deivid Rocha
-- 👀 I’m interested in reach new fronteirs making part of projetcs worldwide
+- 👀 I’m want reach new fronteirs making part of projetcs worldwide.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on web design or web security like crypto.
 - 📫 How to reach me @metas.ae IG or @dev_tidm
