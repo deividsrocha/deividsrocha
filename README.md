@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on web design or web security like crypto.
 - 📫 How to reach me: @metas.ae IG or @dev_tidm
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deividsrocha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=deividsrocha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deividsrocha&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  ##
 
 ![alt text](https://i.imgur.com/qoCDHgA.png)
