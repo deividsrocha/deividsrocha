@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deivid Rocha
 - 👀 I want reach new fronteirs making part of projetcs worldwide.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on web design or web security like crypto.
+- 💞️ I’m looking to collaborate on web development or game related.
 - 📫 How to reach me: @deividrochae IG @exabitxr or https://exabitxr.com
 
 [![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=deividsrocha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
